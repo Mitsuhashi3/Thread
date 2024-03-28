@@ -4,7 +4,7 @@ youtubeを見て作成しました。
 
 参考元URL→https://www.youtube.com/watch?v=3QxtIrakwKk
 
-変更したor追加した機能
+変更or追加した機能
 -
  - 「名前」を投稿した順番の数字の表示に変更
  - ユーザー名が入力未の場合のユーザー名自動生成 追加
