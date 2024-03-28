@@ -12,6 +12,7 @@ youtubeを見て作成しました。
    
 実際の画面
 -
+![main](https://github.com/Mitsuhashi3/Thread/assets/159995383/37d6cd04-698d-4331-98f6-c4769ff3336a)
    
 
 
